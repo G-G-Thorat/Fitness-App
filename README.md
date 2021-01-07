@@ -34,4 +34,4 @@ Created API for authentication in PHP
 
 ## License
 
-Pavani Vellal @2017
+GT @2020
